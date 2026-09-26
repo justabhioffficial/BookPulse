@@ -26,7 +26,7 @@ To set up TeamRASK locally:
 
 ### Installation
 ```bash
-git clone https://github.com/RohanPhutke/TeamRASK.git
+
 cd TeamRASK
 
 # Install frontend dependencies
