@@ -1,7 +1,7 @@
-# TeamRASK - AI-Powered Interactive Learning Platform
+ AI-Powered Interactive Learning Platform
 
 ## Overview
-TeamRASK is building an AI-powered interactive learning platform that transforms the traditional book-learning experience. Users can upload books, and the system generates personalized explanations, visuals, quizzes, and real-time feedback tailored to the user’s learning pace and understanding. With rich interactions and adaptive content, we’re combining the depth of books with the interactivity of modern tech.
+Building an AI-powered interactive learning platform that transforms the traditional book-learning experience. Users can upload books, and the system generates personalized explanations, visuals, quizzes, and real-time feedback tailored to the user’s learning pace and understanding. With rich interactions and adaptive content, we’re combining the depth of books with the interactivity of modern tech.
 
 Our mission? Simple. **Make books great again.**
 
@@ -75,13 +75,7 @@ uvicorn main:app --host 0.0.0.0 --port 10000 --reload
 ```
 
 ---
-## Screenshots
 
-![Screenshot 2025-04-06 104515](https://github.com/user-attachments/assets/c31c410b-7e5d-4f1b-98c7-5038a01efe6e)
-
-![image](https://github.com/user-attachments/assets/39d7c1c1-5d17-495e-8582-fee33dba8d66)
-
-![image](https://github.com/user-attachments/assets/8ce05158-037b-4550-be2d-0c7276cea704)
 
 
 
@@ -149,4 +143,4 @@ Help us squash 'em fast.
 
 ---
 
-TeamRASK — Reimagining how we learn from books, one byte at a time!
+Reimagining how we learn from books, one byte at a time!
